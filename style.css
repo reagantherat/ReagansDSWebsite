@@ -3,7 +3,7 @@ body {
   font-family: 'Inter', Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #fafafa;
+  background-color: #ffe6f2;
   color: #333;
   line-height: 1.6;
 }
@@ -20,7 +20,7 @@ h1, h2, h3 {
 
 /* ---------- Navbar ---------- */
 .navbar {
-  background-color: #1e1e1e;
+  background-color: ##ffb6c1;
   padding: 15px 0;
   text-align: center;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -75,7 +75,7 @@ ul li {
 
 /* ---------- Footer ---------- */
 footer {
-  background-color: #1e1e1e;
+  background-color: ##ffb6c1;
   color: white;
   text-align: center;
   padding: 20px;
@@ -83,7 +83,7 @@ footer {
 }
 
 footer a {
-  color: #ffcc00;
+  color: #fff;
   text-decoration: none;
   margin: 0 8px;
 }
