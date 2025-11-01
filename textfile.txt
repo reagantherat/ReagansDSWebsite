@@ -1,0 +1,3 @@
+I changed colors and fonts and did some spacing for elements such as nav
+
+https://reagantherat.github.io/ReagansDSWebsite/about.html
